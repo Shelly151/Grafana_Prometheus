@@ -1,7 +1,7 @@
 
 # Monitoring Stack with Prometheus and Grafana
 
-Created by Aditi Bansal | SAP- 500106987
+Created by Shelly Gupta | SAP- 500101943
 
 This project sets up a complete monitoring stack using Prometheus and Grafana with Node Exporter for system metrics collection.
 
@@ -24,8 +24,8 @@ This project sets up a complete monitoring stack using Prometheus and Grafana wi
 ```bash
 docker-compose up -d
 ```
+![Screenshot 2025-04-23 151150](https://github.com/user-attachments/assets/d420c824-947f-4760-ab66-5368d041a4f7)
 
-![image](https://github.com/user-attachments/assets/c07642e8-9b65-4106-9ca7-1bf0bab31ab8)
 
 
 ## Accessing the Services
